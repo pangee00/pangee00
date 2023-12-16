@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&text=Wind&#160;and&#160;Wish🍀&color=100:7CAE7C,0:4A8D4A&height=120&animation=twinkling&fontColor=FFFFFF&fontSize=30)
 
+<!--
 ### Hi there 👋
+-->
 
 <!--
 **pangee00/pangee00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
