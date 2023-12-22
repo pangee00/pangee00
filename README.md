@@ -20,8 +20,7 @@
   <h2>🔓 please come!</h2>
   
   <img src="https://img.shields.io/badge/velog-%2320C997?style=for-the-badge&logo=velog&logoColor=%23ffffff&link=https%3A%2F%2Fvelog.io%2F%40pangee">
-  <img src="">
-  <img src="">
+  
 </div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaeIn&show_icons=true&theme=vue&hide=prs,stars)](https://github.com/anuraghazra/github-readme-stats)
