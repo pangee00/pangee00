@@ -17,7 +17,7 @@
 </div>
 
 <div>
-  <h2>🔓 please come!</h2>
+  <h2>🔓 please come, enjoy!</h2>
   
   <img src="https://img.shields.io/badge/velog-%2320C997?style=for-the-badge&logo=velog&logoColor=%23ffffff&link=https%3A%2F%2Fvelog.io%2F%40pangee">
   
