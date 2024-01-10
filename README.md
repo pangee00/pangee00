@@ -26,6 +26,35 @@
   </details>
 </div>
 
+<!--
+- 풀페이지, 가로세로 스크롤 모두 사용
+- 메인컬러 외 색감은 깔끔하게
+- 바다, 태양 ...?
+- 로고 or 메인 문구 정하기
+- 복잡하지 않은 디자인, 레이아웃
+- 스크롤 속도 조절
+/// 컬러(수정, 확정 필수)
+- blue : #35B8FC #353AFC #3579FC #DCCDFF
+- red(orange, yellow) : #FC7635 #FCB635 #FC9835 #FC5335 #FFE077 #FCA635 #FCBF35
+/// 참고사이트
+- https://www.thatthing.com/
+- https://arvinleeuwis.com/
+- https://www.pizzatoits.it/
+- https://viens-la.com/en/
+
+
+2. 컨택트(2016 영화) - 창작 **
+- 영화 사이트
+- 정보페이지(텍스트가 많은 페이지) 외에 풀페이지, width 1440 ~
+- 비선형적 언어 > 영화에 나오는 요소 활용
+- 검은 계열 컬러, 명도 채도 낮은 파랑 초록, 비오고 안개 낀 느낌, 흐리게
+- 메인페이지 / 역할(배우)소개 / 영화내용 / 영화내용 관련 이론(?) / 관련 영상 / 인터뷰
+/// 참고사이트
+- https://notefolio.net/jsk2343/222306 : 영화 테넷
+- https://isplus.com/article/view/isp202307200055 : 관련 기사(무빙, 콘크리트유토피아, 밀수)
+- https://www.behance.net/gallery/53068655/ALIEN-COVENANT-design-concept-of-official-site : 영화 에일리언
+-->
+
 
 <!--
 ![header](https://capsule-render.vercel.app/api?type=rounded&text=Wind&#160;and&#160;Wish🍀&color=100:7CAE7C,0:4A8D4A&height=110&animation=twinkling&fontColor=FFFFFF&fontSize=30)
